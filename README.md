@@ -1,4 +1,4 @@
-#Own operating system - GimmyOS
+Own operating system - GimmyOS
 This is the implementation for a simple operating system. In here, the design, hardware information and little interrupt handling are considered.
 
 I wrote a medium article about this implementation.
